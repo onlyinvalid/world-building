@@ -12,4 +12,7 @@ entity called wisp(XC-045)
 		colour:
 			A weird silverish green tint( but there are others with different colors)
 			some have an orange tint
+		communication:
+			They speak through the electro magnetic fields they generate.\
+			The slight changes in flux allow 
 			
