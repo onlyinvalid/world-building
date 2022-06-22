@@ -11,3 +11,5 @@ entity called wisp(XC-045)
 			like big exersize ball phat
 		colour:
 			A weird silverish green tint( but there are others with different colors)
+			some have an orange tint
+			
