@@ -8,3 +8,4 @@ entity called wisp
 			sphere with ionized gas eminating from its pores
 		size:
 			phat
+			like big exersize ball phat
