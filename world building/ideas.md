@@ -4,7 +4,7 @@ Use for short stories or short comics based on the world
 
 entities
 	wisp(XC-045)
-	what are the attributes of wisp?
+		what are the attributes of wisp?
 		shape:
 			sphere with ionized gas eminating from its pores
 		size:
@@ -20,6 +20,8 @@ entities
 			live in swamps filled with hydrocarbons
 			possible that it is similar to air for them
 			they might breath in methane
-
+	wailing willow(CR-832)
+		attributes
+			
 
 
