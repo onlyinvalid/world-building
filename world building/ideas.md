@@ -17,4 +17,6 @@ entity called wisp(XC-045)
 			The slight changes in flux allow for communication at light speed.
 		environment:
 			live in swamps filled with hydrocarbons
-			possible that it is their 
+			possible that it is similar to air for them
+			they might breath in methane
+		
