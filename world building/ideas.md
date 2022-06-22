@@ -3,7 +3,7 @@ ideas for world building
 Use for short stories or short comics based on the world
 
 entities
-	 wisp(XC-045)
+	wisp(XC-045)
 	what are the attributes of wisp?
 		shape:
 			sphere with ionized gas eminating from its pores
@@ -21,5 +21,5 @@ entities
 			possible that it is similar to air for them
 			they might breath in methane
 
-	
+
 
