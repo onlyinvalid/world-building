@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c3b25b41f3c75585",
+    "type": "split",
+    "children": [
+      {
+        "id": "38f6ae4145aff092",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "world building/ideas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d528526cc660364",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3d3a7875837210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce9b64eac22299b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f99949090478ec21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "caf2a3fb5345609f",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e4aad2d9c6ca31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6b97a3406dbf31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "world building/ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "38f6ae4145aff092",
+  "lastOpenFiles": [
+    "world building/ideas.md"
+  ]
+}
