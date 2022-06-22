@@ -15,5 +15,6 @@ entity called wisp(XC-045)
 		communication:
 			They speak through the electro magnetic fields they generate.
 			The slight changes in flux allow for communication at light speed.
-		
-			
+		environment:
+			live in swamps filled with hydrocarbons
+			possible that it is their 
