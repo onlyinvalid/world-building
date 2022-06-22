@@ -7,4 +7,4 @@ entity called wisp
 		shape:
 			sphere with ionized gas eminating from its pores
 		size:
-			
+			phat
