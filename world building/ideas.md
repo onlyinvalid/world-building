@@ -22,6 +22,8 @@ entities
 			they might breath in methane
 	wailing willow(CR-832)
 		attributes
-			
+			shape:
+				shaped like trees with branches that span out like wings
+				
 
 
