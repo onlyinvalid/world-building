@@ -2,7 +2,8 @@ ideas for world building
 
 Use for short stories or short comics based on the world
 
-entity called wisp(XC-045)
+entities
+	 wisp(XC-045)
 	what are the attributes of wisp?
 		shape:
 			sphere with ionized gas eminating from its pores
@@ -19,4 +20,6 @@ entity called wisp(XC-045)
 			live in swamps filled with hydrocarbons
 			possible that it is similar to air for them
 			they might breath in methane
-		
+
+	
+
